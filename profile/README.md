@@ -2,15 +2,11 @@
 
 **L'hébergement simple, abordable, durable et souverain, pour tous les projets.**
 
----
-
 ## Qui sommes-nous ?
 
 Hecore est un hébergeur web pensé pour celles et ceux qui construisent pour demain.
 
 Notre conviction : l'hébergement ne devrait pas être un frein. Il doit être là, fiable, compréhensible, et rester à vos côtés quand votre projet grandit.
-
----
 
 ## Notre mission
 
@@ -20,8 +16,6 @@ Accompagner chaque projet entrepreneurial, du plus modeste au plus ambitieux
 - **Abordable**, avec des tarifs clairs et sans mauvaise surprise
 - **Stable dans le temps**, sur laquelle on peut compter aujourd'hui comme dans cinq ans
 - **Souverain**, pour garder la maîtrise de vos données et de votre infrastructure
-
----
 
 ## Nos quatre piliers
 
@@ -59,8 +53,6 @@ Vos données et vos projets vous appartiennent. Ils ne doivent dépendre ni d'ac
 - Pas de dépendance à un écosystème fermé : vos projets restent portables et vos données récupérables
 - Une transparence totale sur où et comment vos données sont stockées
 
----
-
 ## Nos valeurs
 
 - **Clarté** : on explique, on ne complique pas
@@ -68,8 +60,6 @@ Vos données et vos projets vous appartiennent. Ils ne doivent dépendre ni d'ac
 - **Fiabilité** : on construit pour durer
 - **Souveraineté** : vos données, vos règles
 - **Proximité** : derrière chaque projet, il y a une personne
-
----
 
 ## En résumé
 
